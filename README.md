@@ -88,7 +88,7 @@ Sapato: 10
 
 3.Ver Estoque: Exibe as quantidades atuais de Camisas, Calças e Sapatos no estoque.
 
-##Autor
+## Autor
 Desenvolvido por Kauã Santana
 
 
