@@ -34,11 +34,15 @@ __./controle_estoque__
 ### Exemplo de Uso
 
 produtos vendidos na loja
-escolha uma opcao
+escolha uma opcao:
 1 adcionar produtos
+
 2 remover produtos
+
 3 ver estoque
+
 digite 4 para sair
+
 opcao: 1
 Escolha o produto para adicionar:
 1 - Camisa
