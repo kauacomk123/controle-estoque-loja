@@ -18,6 +18,7 @@ O programa oferece as seguintes opções:
 __gcc -o controle_estoque controle_estoque.c__
 
 2.Execute o progama compilado:
+
 __./controle_estoque__
 
 3.O programa exibirá um menu com as opções:
