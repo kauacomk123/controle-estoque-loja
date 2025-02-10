@@ -46,22 +46,33 @@ digite 4 para sair
 opcao: 1
 Escolha o produto para adicionar:
 1 - Camisa
+
 2 - Calça
+
 3 - Sapato
+
 Produto: 1
 Quantidade a adicionar: 5
 
 produtos vendidos na loja
 escolha uma opcao
+
 1 adcionar produtos
+
 2 remover produtos
+
 3 ver estoque
+
 digite 4 para sair
+
 opcao: 3
 
 Estoque atual:
+
 Camisa: 15
+
 Calça: 10
+
 Sapato: 10
 
 ### Como Funciona
