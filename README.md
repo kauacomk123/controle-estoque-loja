@@ -23,8 +23,11 @@ __./controle_estoque__
 3.O programa exibirá um menu com as opções:
 
 1): Adicionar produtos ao estoque.
+
 2): Remover produtos do estoque.
+
 3): Visualizar o estoque atual.
+
 4): Sair do programa.
 
 4.Digite o número correspondente à opção desejada e siga as instruções na tela.
