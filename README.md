@@ -1,6 +1,6 @@
 # Sistema de Controle de Estoque de Loja
 --------------------------------------------------------------
-Este é um simples programa em C que simula o controle de estoque de uma loja. Ele permite adicionar e remover produtos de estoque, além de visualizar o estoque atual dos itens. O programa mantém o controle de três tipos de produtos: Camisas, Calças e Sapatos.
+##Este é um simples programa em C que simula o controle de estoque de uma loja. Ele permite adicionar e remover produtos de estoque, além de visualizar o estoque atual dos itens. O programa mantém o controle de três tipos de produtos: Camisas, Calças e Sapatos.
 --------------------------------------------------------------
 ## Funcionalidades
 O programa oferece as seguintes opções:
