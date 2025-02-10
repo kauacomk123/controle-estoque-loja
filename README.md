@@ -15,7 +15,7 @@ O programa oferece as seguintes opções:
 
 1.Compile o código com um compilador C. Por exemplo, se você estiver utilizando o GCC, use o seguinte comando:
 
-gcc -o controle_estoque controle_estoque.c
+__gcc -o controle_estoque controle_estoque.c__
 
 2.Execute o progama compilado:
 ./controle_estoque
