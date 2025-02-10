@@ -6,7 +6,9 @@
 O programa oferece as seguintes opções:
 
 1.Adicionar Produtos: Permite adicionar uma quantidade específica de camisas, calças ou sapatos ao estoque.
+
 2.Remover Produtos: Permite remover uma quantidade específica de camisas, calças ou sapatos do estoque (se houver quantidade suficiente disponível).
+
 3.Ver Estoque: Exibe a quantidade atual de camisas, calças e sapatos disponíveis no estoque.
 
 ##Como Usar
