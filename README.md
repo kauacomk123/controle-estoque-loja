@@ -35,6 +35,7 @@ __./controle_estoque__
 
 produtos vendidos na loja
 escolha uma opcao:
+
 1 adcionar produtos
 
 2 remover produtos
@@ -45,6 +46,7 @@ digite 4 para sair
 
 opcao: 1
 Escolha o produto para adicionar:
+
 1 - Camisa
 
 2 - Calça
@@ -52,9 +54,11 @@ Escolha o produto para adicionar:
 3 - Sapato
 
 Produto: 1
+
 Quantidade a adicionar: 5
 
 produtos vendidos na loja
+
 escolha uma opcao
 
 1 adcionar produtos
@@ -76,6 +80,7 @@ Calça: 10
 Sapato: 10
 
 ### Como Funciona
+
 1.Adicionar Produtos: Quando o usuário escolhe a opção para adicionar produtos, o programa pede para selecionar o tipo de produto (Camisa, Calça ou Sapato) e a quantidade a ser adicionada ao estoque. O estoque é atualizado e a quantidade dos produtos é aumentada.
 
 2.Remover Produtos: Quando o usuário escolhe a opção para remover produtos, o programa pede para selecionar o tipo de produto (Camisa, Calça ou Sapato) e a quantidade a ser removida. Caso a quantidade disponível seja suficiente, o estoque será atualizado, e os produtos serão removidos. Caso contrário, o programa informará que a quantidade é inválida ou que o estoque não tem o número solicitado de itens.
